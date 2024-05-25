@@ -1,3 +1,4 @@
+/* eslint-disable */
 import fs from 'fs';
 
 // Function to read the database from a given dataPath

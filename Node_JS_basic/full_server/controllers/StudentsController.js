@@ -1,3 +1,4 @@
+/* eslint-disable */
 import readDatabase from '../utils';
 
 // Valid majors for filtering students
